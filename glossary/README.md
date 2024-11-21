@@ -1,5 +1,7 @@
 # Глоссарий
 
-- [Мост](bridge)
+- [мост](bridge.md)
+- [тестовая сеть](testnet.md)
 
-- [Bridge](bridge)
+- [bridge](bridge.md)
+- [testnet](testnet.md)
