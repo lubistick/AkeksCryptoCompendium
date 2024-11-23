@@ -19,6 +19,7 @@
 
 ### М
 
+- [монета](token.md)
 - [мост](bridge.md)
 
 ### С
@@ -28,6 +29,7 @@
 ### Т
 
 - [тестовая сеть](testnet.md)
+- [токен](token.md)
 
 
 ## Английский
@@ -48,3 +50,4 @@
 ### T
 
 - [testnet](testnet.md)
+- [token](token.md)
