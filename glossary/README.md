@@ -5,6 +5,14 @@
 
 ## Русский
 
+### Б
+
+- [блокчейн](blockchain.md)
+
+### Г
+
+- [газ](gas.md)
+
 ### К
 
 - [кран](faucet.md)
@@ -12,6 +20,10 @@
 ### М
 
 - [мост](bridge.md)
+
+### С
+
+- [сеть](blockchain.md)
 
 ### Т
 
@@ -22,11 +34,16 @@
 
 ### B
 
+- [blockchain](blockchain.md)
 - [bridge](bridge.md)
 
 ### F
 
 - [faucet](faucet.md)
+
+### G
+
+- [gas](gas.md)
 
 ### T
 
