@@ -29,7 +29,7 @@ Block Explorer:  https://sepolia.uniscan.xyz/
 
 ### Пополнение тестовой сети
 
-Пополним ETH в тестовой сети Sepolia.
+Пополним ETH в тестовой сети [Sepolia](sepolia.md).
 
 1. Заходим на сервис https://testnetbridge.com/sepolia
 2. У меня есть токены в сети Optimism и я выбираю ее как источник пополнения. Ввожу количество 0.0001 ETH. В сети Sepolia будет 2.0679 ETH. Нажимаем "Transfer", подтверждаем в кошельке Metamask.

@@ -7,14 +7,14 @@
 
 ### Использование моста
 
-Будем переводить ETH из сети Sepolia в сеть Sepolia Unichain.
+Будем переводить ETH из сети [Sepolia](sepolia.md) в сеть Sepolia Unichain.
 
 1. Заходим на сайт https://superbridge.app/unichain-sepolia, Жмем "Connect wallet" и выбираем Metamask.
 2. Поля следующие:
 ```
-From:   Sepolia
-To:     Unichain Sepolia
-ETH: 0.001 
+From: Sepolia
+To:   Unichain Sepolia
+ETH:  0.001 
 ```
 3. Нажимаем "Review bridge", подтверждаем галочки, нажимаем start и подтверждаем в Metamask.
 
